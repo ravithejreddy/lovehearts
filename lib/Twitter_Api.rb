@@ -1,14 +1,8 @@
 class TwitterApi
 
   def self.feed
-    # https:/api.twitter.com/1.1/trends/place.json?id=1&exclude=c&favourites_count=1000&retweets_count=1000
 
-    # client.sample do |object|
-    #   puts object.text if object.is_a?(Twitter::Event)
-    # end
-
-
-    client.user_timeline("TechCrunch", count:25 , exclude_replies: true, include_rts: false)
+    client.user_timeline("TechCrunch", count:100 , exclude_replies: true, include_rts: false)
 
   end
 
