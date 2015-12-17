@@ -1,0 +1,12 @@
+# development:
+#   TWITTER_KEY: 'QEelJ7Lwzho29DAspVE4Y9GtU'
+#   TWITTER_SECRET: 'qPCCOwfaHCt1uwHGy1I2UVjPmZ4KKaFEgpTsdW6jlHent9Bgex'
+#
+#
+# test:
+# TWITTER_KEY: 'QEelJ7Lwzho29DAspVE4Y9GtU'
+# TWITTER_SECRET: 'qPCCOwfaHCt1uwHGy1I2UVjPmZ4KKaFEgpTsdW6jlHent9Bgex'
+#
+# production:
+# TWITTER_KEY: 'QEelJ7Lwzho29DAspVE4Y9GtU'
+# TWITTER_SECRET: 'qPCCOwfaHCt1uwHGy1I2UVjPmZ4KKaFEgpTsdW6jlHent9Bgex'
