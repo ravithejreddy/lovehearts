@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+
+body{
+  background-color: skyblue;
+}
+
+.tweet-feed{
+  margin-top: 5em;
+  border: 1px solid steelblue;
+  padding-top: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+  background-color: darkgray;
+}
+
+.search-box{
+
+  padding: 2em 2em 2em 2em;
+  margin: 10em 15em 5em 17em;
+  width: 40em;
+  height:2em;
+}
