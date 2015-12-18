@@ -1,6 +1,6 @@
 
 <div class="tweet-feed">
-  <%= TwitterApi.feed.each do |tweet| %>
+  <%= @feed.each do |tweet| %>
   <li> <%= parsed_tweet tweet %></li><hr>
   <% end %>
 </div>
